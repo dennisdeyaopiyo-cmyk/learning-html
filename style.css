@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.form-card{
+    background-color: green;
+    height:600px;
+    width: 800px;
+    border: solid 1px;
+    border-radius: 8px;    
+}
+
+h2{
+    font-weight: 700;
+    text-align: center;
+    color: pink;
+    text-decoration: underline;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 25px;
+}
+.form{
+    
+}
