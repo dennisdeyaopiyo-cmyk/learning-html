@@ -39,8 +39,18 @@ p{
     flex-direction: column;
 }
 .form-group label{
-    font-size:20px;
+    font-size:40px;
     margin-bottom: 10px;
+    font-weight: 400;
     
+}
+.form-group input{
+    width: 200px;
+    border: solid 1px;
+    height: 35px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+    color: red;
     
 }
