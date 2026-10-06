@@ -28,5 +28,19 @@ p{
     font-size: 25px;
 }
 .form{
+    padding: 15px;
+    display: flex;
+    flex-direction:column;
+    
+}
+.form-group{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.form-group label{
+    font-size:20px;
+    margin-bottom: 10px;
+    
     
 }
